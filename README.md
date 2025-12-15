@@ -10,15 +10,15 @@ Hi everyone, welcome to the official download page for the Python program featur
 
 * If you're an Android user:
   * Open this link on your mobile phone. Click on the file above called "london-transport-roulette.py". Then click the download icon in the toolbar to save it to your device. Save it in a sensible place so you can come back to it later.
-  * To open and run this Python file, you'll need some kind of Python IDE app on your phone. If you're an Android user, I recommend Pydroid 3 (available on the Google Play Store).
+  * To open and run this Python file, you'll need some kind of Python IDE app on your phone. If you're an Android user, I recommend Pydroid 3 available on the Google Play Store.
   * Open your Python app of choice, and Open the .py file you've just downloaded. There will usually be a "Play" button to run the code - you'll need to do this every time you want to play a new round.
   * Your code should work everywhere, even when you're not connected to a WiFi network.
 
 
 * If you're an iPhone / iOS user:
-  * Unfortunately, running Python on an iPhone is significantly more difficult than on an Android phone. For iPhones, it's usually best to use Python in Safari.
-  * Open this link on your mobile phone. Click on the file above called "london-transport-roulette.py". Select and Copy all the lines of code (the text with a number at the start of each line).
-  * Visit the following link on Safari for an online version of Python: https://pythononline.net/
+  * Unfortunately, running Python on an iPhone is significantly more difficult than on an Android phone. For iPhones, it's usually best to use Python in Safari or another web browser.
+  * Open this link on your mobile phone. Click on the file above called "london-transport-roulette.py". Select and Copy all the lines of code (that's all the text with a number at the start of each line).
+  * Visit the following link on your phone for an online version of Python: https://pythononline.net/
   * and Paste your code into the white text box. Clicking the green button will allow you to run the program - you'll need to do this every time you want to play a new round.
   * You'll need a WiFi or cellular connection to access this website, so it may be a bit challenging to use in tube tunnels or remote locations with no mobile signal.
 
@@ -39,5 +39,5 @@ Hi everyone, welcome to the official download page for the Python program featur
 
 * What changes are coming in the future?
 
-  * I want to keep this program as accessible as possible to users, but the possibilities of using Python are almost limitless. In the future, I would like to link this Transport Roulette code with TfL's API to get live station and destination information. This is the same feed of data used to get live bus countdowns to your phone, or tells you the quickest way to get between two tube stations. This would allow for things like automatic line / destination acquisition based on your current location (which would be extremely cool!) but I'm not sure on the licensing 
+  * I want to keep this program as accessible as possible to users, but the possibilities of using Python are almost limitless. In the future, I would like to link this Transport Roulette code with TfL's API to get live station and destination information. This is the same feed of data used to get live bus countdowns to your phone, or tells you the quickest way to get between two tube stations. This would allow for things like automatic line / destination acquisition based on your current location (which would be extremely cool!) but I'm not sure on the legality of distributing this as my own work.
 
